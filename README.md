@@ -66,13 +66,11 @@ I am a passionate **Senior Software Developer** with **15+ years of experience**
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![Goran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjovanovicst&show_icons=true&theme=radical)](https://github.com/gjovanovicst)
-<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjovanovicst&layout=compact&theme=radical)](https://github.com/gjovanovicst)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gjovanovicst&show_icons=true&theme=radical" alt="Goran's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjovanovicst&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
