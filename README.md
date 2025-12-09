@@ -70,7 +70,7 @@ I am a passionate **Senior Software Developer** with **15+ years of experience**
 
 [![Goran'sGitHub Stats](https://gh-readme-profile.vercel.app/api?username=gjovanovicst&theme=dark)](https://github.com/gjovanovicst/github-readme-profile)
 
-[![Goran's GitHub Streak](https://streak-stats.demolab.com?user=gjovanovicst&theme=radical)](https://github.com/gjovanovicst)
+[![Goran's GitHub Streak](https://streak-stats.demolab.com?user=gjovanovicst&theme=DARK)](https://github.com/gjovanovicst)
 
 
 
