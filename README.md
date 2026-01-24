@@ -76,5 +76,5 @@ I am a passionate **Senior Software Developer** with **15+ years of experience**
 
 <div align="center">
   <p>Let's build something amazing together!</p>
-  <p>© 2025 Goran Jovanović</p>
+  <p>© 2026 Goran Jovanović</p>
 </div>
